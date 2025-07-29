@@ -29,15 +29,6 @@ Sou uma pessoa **curiosa**, **disciplinada** e apaixonada por aprendizado contí
 
 ---
 
-## 🧩 Áreas de Interesse
-
-- Desenvolvimento Web (Front-end e Back-end)
-- Automação e scripts com JavaScript
-- Banco de Dados
-- Projetos com impacto social
-
----
-
 ## 💼 Soft Skills
 
 - Organização e foco  
@@ -63,14 +54,6 @@ Sou uma pessoa **curiosa**, **disciplinada** e apaixonada por aprendizado contí
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deric001gh&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deric001gh&layout=compact&theme=radical" height="150" />
-</p>
-
----
 
 ## 📫 Entre em contato comigo
 
