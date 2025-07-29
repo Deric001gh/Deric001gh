@@ -6,11 +6,47 @@
 
 ---
 
+## 🎯 Objetivo Profissional
+
+Atuar no setor de tecnologia da informação como **desenvolvedor full stack**, com foco em soluções criativas, eficientes e com impacto real. Estou em busca de oportunidades para aplicar meus conhecimentos e crescer junto com o mercado.
+
+---
+
+## 🧠 Sobre mim
+
+Sou uma pessoa **curiosa**, **disciplinada** e apaixonada por aprendizado contínuo. Acredito que **tecnologia é uma ponte para transformar vidas** e quero fazer parte disso. Tenho formação técnica em administração, o que me ajuda a unir visão de negócio com desenvolvimento de sistemas.
+
+💡 Atualmente, estou me aprofundando em fundamentos de **programação**, **Git e GitHub**, **JavaScript** e **TypeScript**, buscando sempre criar bases sólidas antes de avançar.
+
+> 💬 “A prática diária me aproxima da excelência, um commit de cada vez.”
+
+---
+
 🎓 **Formação Acadêmica:**
 - Técnico em Administração integrado ao Ensino Médio
 - Cursando **Análise e Desenvolvimento de Sistemas** no IFPI
 
 ---
+
+## 🧩 Áreas de Interesse
+
+- Desenvolvimento Web (Front-end e Back-end)
+- Automação e scripts com JavaScript
+- Banco de Dados
+- Projetos com impacto social
+
+---
+
+## 💼 Soft Skills
+
+- Organização e foco
+- Facilidade com aprendizado contínuo
+- Comunicação clara
+- Resiliência diante de desafios
+- Espírito colaborativo
+
+---
+
 
 🛠️ **Tecnologias e Ferramentas que estou estudando:**
 
